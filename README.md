@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/itzMANAV07/leetcode/tree/master/0001-two-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/itzMANAV07/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itzMANAV07/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Math
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/itzMANAV07/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/itzMANAV07/leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
