@@ -12,4 +12,4 @@ class Solution:
         for key in frequency:
             count += frequency[key] * (position // 8 + 1)
             position += 1
-        return count
+        return count 
