@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/itzMANAV07/leetcode/tree/master/0001-two-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/itzMANAV07/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/itzMANAV07/leetcode/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itzMANAV07/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/itzMANAV07/leetcode/tree/master/0009-palindrome-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/itzMANAV07/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/itzMANAV07/leetcode/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/itzMANAV07/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
 |  |
@@ -45,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/itzMANAV07/leetcode/tree/master/0001-two-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itzMANAV07/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/itzMANAV07/leetcode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/itzMANAV07/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
