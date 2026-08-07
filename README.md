@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/itzMANAV07/leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/itzMANAV07/leetcode/tree/master/0013-roman-to-integer) |
 | [0628-maximum-product-of-three-numbers](https://github.com/itzMANAV07/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/itzMANAV07/leetcode/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/itzMANAV07/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/itzMANAV07/leetcode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/itzMANAV07/leetcode/tree/master/0058-length-of-last-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/itzMANAV07/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itzMANAV07/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/itzMANAV07/leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/itzMANAV07/leetcode/tree/master/0013-roman-to-integer) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itzMANAV07/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/itzMANAV07/leetcode/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
