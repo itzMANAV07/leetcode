@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/itzMANAV07/leetcode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/itzMANAV07/leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/itzMANAV07/leetcode/tree/master/0058-length-of-last-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/itzMANAV07/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itzMANAV07/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -67,4 +68,12 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/itzMANAV07/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/itzMANAV07/leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/itzMANAV07/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
