@@ -9,4 +9,5 @@ class Solution:
             s += nums[i]
         while s in nums:
             s += 1
+            
         return s
